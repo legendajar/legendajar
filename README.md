@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legendajar" alt="legendajar" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [harshsolanki2211.tech](harshsolanki2211.tech)
+- 👨‍💻 All of my projects are available at [theharshsolanki.in](theharshsolanki.in)
 
 - 📫 How to reach me **harshsolanki9898@gmail.com**
 
