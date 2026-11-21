@@ -65,8 +65,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=legendajar&bg_color=09090b&color=a6a6b0&title_color=f2f2f4&line=ff2d55&point=f2f2f4&area=true&area_color=ff2d55&hide_border=true&radius=16&custom_title=Contributions%20%C2%B7%20last%2031%20days">
-  <img alt="Harsh's GitHub contribution graph for the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=legendajar&bg_color=f6f5f2&color=4b4b55&title_color=121216&line=d1003f&point=121216&area=true&area_color=d1003f&hide_border=true&radius=16&custom_title=Contributions%20%C2%B7%20last%2031%20days" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/contributions-dark.svg">
+  <img alt="Harsh's GitHub contributions over the last 12 months" src="assets/contributions-light.svg" width="100%">
 </picture>
 
 <a href="mailto:harshsolanki9898@gmail.com">
