@@ -24,8 +24,8 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/journey-dark.svg">
-  <img alt="02 — Experience & education. Work: Software Developer at Xogene (Nov 2024 – Present, Pune); Associate Engineer at Nagarro (May 2022 – Sep 2023, Remote). Education: MCA, Amity University (2022–2024); BCA, GLA University (2019–2022)." src="assets/journey-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/journey-dark.svg?v=2">
+  <img alt="02 — Experience & education. Work: Software Developer at Xogene (Nov 2024 – Present, Pune); Associate Engineer at Nagarro (May 2022 – Sep 2023, Remote). Education: MCA, Amity University (2022–2024); BCA, GLA University (2019–2022)." src="assets/journey-light.svg?v=2" width="100%">
 </picture>
 
 <a href="https://github.com/legendajar/Orbie">
