@@ -56,7 +56,7 @@ JOURNEY = {
         ("Nov 2024 – Present · Pune", "Software Developer", "Xogene",
          "React microfrontends, Django APIs, performance work, internal tooling.", True),
         ("May 2022 – Sep 2023 · Remote", "Associate Engineer", "Nagarro",
-         "First industry role, alongside the MCA.", False),
+         "", False),
     ],
     "Education": [
         ("Aug 2022 – May 2024 · Noida", "Master of Computer Applications", "Amity University",
