@@ -5,6 +5,19 @@
   </picture>
 </a>
 
+<h1 align="center">Harsh Solanki</h1>
+
+<p align="center">
+  Software Engineer &amp; Full Stack Developer in Pune, India, currently at Xogene.<br>
+  I build high-performance web apps with React, Next.js, TypeScript and Node.js.
+</p>
+
+<p align="center">
+  <a href="https://theharshsolanki.in"><b>Portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/solanki-harsh"><b>Harsh Solanki on LinkedIn</b></a> ·
+  <a href="https://theharshsolanki.in/blog"><b>Blog</b></a>
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/expertise-dark.svg">
   <img alt="01 — Core expertise. Frontend: React, Next.js, TypeScript, Microfrontends, Module Federation, Framer Motion, Sass. Backend: Node.js, Express, Django, Celery. Data: PostgreSQL, MongoDB, Redis. Cloud & delivery: AWS, Docker. AI & desktop: Electron, Local LLMs, LM Studio, RAG, MCP." src="assets/expertise-light.svg" width="100%">
